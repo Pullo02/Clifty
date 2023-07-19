@@ -2,16 +2,16 @@
 
 <p align="center">
 <a href="https://github.com/alygnt"><img title="Github" src="https://img.shields.io/badge/alygnt-grey?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/alygnt/clifty"><img title="Github" src="https://img.shields.io/badge/Clifty-blue?style=for-the-badge"></a>
+<a href="https://github.com/alygnt/pullo"><img title="Github" src="https://img.shields.io/badge/Pullo-blue?style=for-the-badge"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Alygnt/Clifty"><img title="Version" src="https://img.shields.io/badge/Version-1.4-green.svg"></a>
-<a href="https://github.com/Alygnt/Clifty"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://github.com/Alygnt/Pullo"><img title="Version" src="https://img.shields.io/badge/Version-1.4-green.svg"></a>
+<a href="https://github.com/Alygnt/pullo"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Alygnt/phisher-modules/clifty/pics/banner.png">
+<img src="https://raw.githubusercontent.com/Alygnt/phisher-modules/pullo/pics/banner.png">
 </p>
                                                                                           
 <p align="center">
@@ -20,26 +20,26 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Alygnt/Clifty/blob/main/LICENSE"><img title="Licence" src="https://img.shields.io/badge/License-GNU General Public License v3.0-blue.svg"></a>
+<a href="https://github.com/Alygnt/pullo/blob/main/LICENSE"><img title="Licence" src="https://img.shields.io/badge/License-GNU General Public License v3.0-blue.svg"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Alygnt"><img title="Followers" src="https://img.shields.io/github/followers/Alygnt?color=blue&style=flat-square"></a>
-<a href="https://github.com/Alygnt/clifty"><img title="Stars" src="https://img.shields.io/github/stars/Alygnt/clifty?color=red&style=flat-square"></a>
-<a href="https://github.com/Alygnt/clifty"><img title="Forks" src="https://img.shields.io/github/forks/Alygnt/clifty?color=red&style=flat-square"></a>
-<a href="https://github.com/Alygnt/clifty"><img title="Issues" src="https://img.shields.io/github/issues/Alygnt/clifty?color=red&style=flat-square"></a>
-<a href="https://github.com/Alygnt/clifty"><img title="Watching" src="https://img.shields.io/github/watchers/Alygnt/clifty?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Alygnt/pullo"><img title="Followers" src="https://img.shields.io/github/followers/Alygnt?color=blue&style=flat-square"></a>
+<a href="https://github.com/Alygnt/pullo"><img title="Stars" src="https://img.shields.io/github/stars/Alygnt/clifty?color=red&style=flat-square"></a>
+<a href="https://github.com/Alygnt/pullo"><img title="Forks" src="https://img.shields.io/github/forks/Alygnt/clifty?color=red&style=flat-square"></a>
+<a href="https://github.com/Alygnt/pullo"><img title="Issues" src="https://img.shields.io/github/issues/Alygnt/clifty?color=red&style=flat-square"></a>
+<a href="https://github.com/Alygnt/Pullo"><img title="Watching" src="https://img.shields.io/github/watchers/Alygnt/c?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Alygnt/phisher-modules/clifty/pics/poster.png">
+<img src="https://raw.githubusercontent.com/Alygnt/phisher-modules/pullo/pics/poster.png">
 </p>
 
 <br>
 
 <h3><p align="center">Disclaimer</p></h3>
 
-<i>Any actions and or activities related to <b>Clifty</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+<i>Any actions and or activities related to <b>Pullo</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
 <b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
@@ -50,11 +50,11 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 <br>
 
 ## ABOUT TOOL:
-Clifty is the most powerful and compact phishing tool. it has lots of advantages. Give it a try.
+Pullo is the most powerful and compact phishing tool. it has lots of advantages. Give it a try.
   
 <br>
                                          
-### What makes Clifty so powerful:
+### What makes Pullo so powerful:
 * Has 150+ Phishing Options
 * Has OTP phishing function
 * Saves the logs and manages it
@@ -67,7 +67,7 @@ Clifty is the most powerful and compact phishing tool. it has lots of advantages
 * Termux
 * Kali Linux
 * Google cloud shell
-* Git bash for windows
+* Git bash for Android 
 
 <br>
 
@@ -83,36 +83,36 @@ Clifty is the most powerful and compact phishing tool. it has lots of advantages
 * `pkg update -y`
 * `pkg upgrade -y`
 * `pkg install git -y`
-* `git clone https://github.com/Alygnt/Clifty`
-* `cd Clifty`
-* `bash clifty.sh`
+* `git clone https://github.com/Alygnt/Pullo`
+* `cd pullo`
+* `bash pullo.sh`
 
 ### Kali Linux
 * `sudo apt update -y`
 * `sudo apt upgrade -y`
 * `sudo apt install git -y`
-* `git clone https://github.com/Alygnt/Clifty`
-* `cd Clifty`
-* `sudo bash clifty.sh`
+* `git clone https://github.com/Alygnt/Pullo`
+* `cd Pullo`
+* `sudo bash pullo.sh`
 
 ### Google cloud shell
 * `apt update -y`
 * `apt upgrade -y`
 * `apt install git -y`
-* `git clone https://github.com/Alygnt/Clifty`
-* `cd Clifty`
-* `bash clifty.sh`
+* `git clone https://github.com/Alygnt/Pullo`
+* `cd Pullo`
+* `bash pullo.sh`
 
 **OR**
 
 - Click this:
 <p align="left">
-  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Alygnt/Clifty.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
+  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Alygnt/Pullo.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
   </p>
 
 - Run the tool:
   ```
-  bash clifty.sh
+  bash pullo.sh
   ```
 
 ### Install via '.deb' file
@@ -127,7 +127,7 @@ Clifty is the most powerful and compact phishing tool. it has lots of advantages
   ```
   - Run the tool by typing
   ```
-  clifty
+  pullo
   ```
 
 ### Install via '.deb' file (TERMUX)
@@ -145,17 +145,17 @@ Clifty is the most powerful and compact phishing tool. it has lots of advantages
   dpkg -i <your path to deb file>
   ```
  - Run the tool by typing
-  `clifty`
+  `pullo`
 
 <br>
 
 ## Dependencies
-**`Clifty`** requires following programs to run properly -
+**`Pullo`** requires following programs to run properly -
 - `php`
 - `wget`
 - `curl`
 - `git`
->  All the dependencies will be installed automatically when you run `Clifty` for the first time.
+>  All the dependencies will be installed automatically when you run `pullo` for the first time.
 
 <br>
 
@@ -191,8 +191,9 @@ Clifty is the most powerful and compact phishing tool. it has lots of advantages
 - ADD : IP
 - ADD : Device details
 - ADD : Binance
+- ADD : Contact
 
-**<a href="https://github.com/Alygnt/Clifty/discussions/new?category=ideas">I have a Idea!!</a>**
+**<a href="https://github.com/Alygnt/Pullo/discussions/new?category=ideas">I have a Idea!!</a>**
 
 <br>
 
@@ -203,7 +204,7 @@ Clifty is the most powerful and compact phishing tool. it has lots of advantages
 
 ## SCREENSHOTS :
 <p align="center">
-<img src="https://github.com/Alygnt/phisher-modules/blob/clifty/screenshot/clifty_ss_1.4.gif?raw=true">
+<img src="https://github.com/Alygnt/phisher-modules/blob/pullo/screenshot/clifty_ss_1.4.gif?raw=true">
 </p>
 
 <br>
