@@ -191,7 +191,10 @@ Clifty is the most powerful and compact phishing tool. it has lots of advantages
 - ADD : IP
 - ADD : Device details
 - ADD : Binance
-
+- ADD : Orange et moi
+- ADD : Wave
+- ADD : Tik tok
+- 
 **<a href="https://github.com/Alygnt/Clifty/discussions/new?category=ideas">I have a Idea!!</a>**
 
 <br>
